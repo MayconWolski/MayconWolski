@@ -1,16 +1,45 @@
-### Olá! Eu sou o Maycon 👋
+### Hi there 👋
+ ##### "Thanks for Checking my Profile!"
 
-- 🔭 Hoje trabalho como freelacer fazendo bots
-- 🌱 Estudando sareforce, JavaScript e Inglês
 
-<div align="center">
-  <a href="https://github.com/MayconWolski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconWolski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconWolski&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maycon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maycon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maycon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+<h1 align='center'>
+  I'm Maycon Wolski  Here 💻
+  
+</h1>
+
+
+
+<p align='center'>
+  on the way of Development FullStack
+</p>
+
+### 🛠 About me
+<p>
+  <em>
+   My name is Maycon Wolski, and I'm from Brazil (🇧🇷), I live in São Paulo, Actually I'm currently a freelance developer.
+  </em>
+</p>
+
+ - 🌱 I’m currently learning ... React 
+ - 🚀 <em>Student of System Analysis and Development at <a href="https://www.cruzeirodosulvirtual.com.br/">Cruzeiro do Sul</a>
+
+
+### ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+ 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python, )](https://skillicons.dev)
+
+
+### 📈 My Stats
+|My overall statistics|Top most languages |
+|------------------|-------------|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=MayconWolski&show_icons=true&hide_border=true&count_private=true&theme=dark)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconWolski&langs_count=10&count_private=true&hide_border=true&theme=dark&layout=compact)|
+
+💬 Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-antonio-wolski-14b447237/)](https://https://www.linkedin.com/in/maycon-antonio-wolski-14b447237/)
+
+:brain: <a name="id4"></a>*"Pare de Esperar Pelo Momento Certo, Pois Ele Não Existe."*
+
