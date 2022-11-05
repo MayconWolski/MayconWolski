@@ -39,7 +39,7 @@ These are some of the technologies and tools that I work with:
 
 💬 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-antonio-wolski-14b447237/)](https://https://www.linkedin.com/in/maycon-antonio-wolski-14b447237/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/maycon-antonio-wolski-14b447237/)](https://br.linkedin.com/in/maycon-antonio-wolski-14b447237/)
 
 :brain: <a name="id4"></a>*"Pare de Esperar Pelo Momento Certo, Pois Ele Não Existe."*
 
