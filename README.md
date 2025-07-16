@@ -43,4 +43,7 @@ These are some of the technologies and tools that I work with:
 
 :brain: <a name="id4"></a>*"Pare de Esperar Pelo Momento Certo, Pois Ele Não Existe."*
 
+![YAML](https://img.shields.io/badge/YAML-atividade-blue?logo=yaml)
+
+
 
