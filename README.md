@@ -29,7 +29,7 @@
 
 These are some of the technologies and tools that I work with:
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql,bootstrap,docker,linux )](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql,bootstrap,docker,linux, selenium )](https://skillicons.dev)
 
 
 ### 📈 My Stats
